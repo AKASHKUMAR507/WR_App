@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/SourceSans3-ExtraLight.ttf",
+      "sha1": "f3a21581d72601754916bab74b31fec5dcdf61ad"
+    },
+    {
+      "path": "assets/fonts/SourceSans3-Regular.ttf",
+      "sha1": "9b68aa1db60830073d1429a87e8ff0be48f0718d"
+    },
+    {
+      "path": "assets/fonts/SourceSans3-SemiBold.ttf",
+      "sha1": "b38e94c86cc93f9f54dd3e9f6f1c59af2a30b2a6"
+    }
+  ]
+}
